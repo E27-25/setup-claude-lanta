@@ -40,14 +40,8 @@ claude
 
 ```
 
----
-
 ### **⚠️ Quick Rules**
 
 * **Privacy:** Your account and chat history are stored in your private home directory (`~`), so **teammates cannot access your Claude account.**
 * **Etiquette:** Use Claude for coding assistance and scripting. Do not run heavy AI training or indexing on the Login Node.
 * **Network:** If `curl` times out, LANTA is likely blocking the internet. Ask your System Admin for the **Proxy settings**.
-
-```
-
-```
